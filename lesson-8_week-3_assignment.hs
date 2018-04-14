@@ -64,7 +64,7 @@ treeVals
 
 
 {-==========================================+
- | check if the a list meets the predicate  |
+ | Check if the a list meets the predicate  |
  | f which checks whether 2 elements are in |
  | the correct order.                       |
  +==========================================-}
