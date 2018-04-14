@@ -39,7 +39,7 @@ treeRightBranch
     = Leaf
 
 treeRightBranch
-  (Node _ rightBranch _)
+  (Node _ _ rightBranch)
     = rightBranch
 
 
